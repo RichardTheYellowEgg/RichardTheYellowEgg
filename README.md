@@ -1,5 +1,5 @@
 ### Hi there 👋
-![richard](https://github.com/RichardTheYellowEgg/RichardTheYellowEgg/assets/137195941/eb6c0d0a-bce7-4fbb-be45-727fb4d5f144)
+<img src="https://github.com/RichardTheYellowEgg/RichardTheYellowEgg/assets/137195941/eb6c0d0a-bce7-4fbb-be45-727fb4d5f144" height="100" width="100">
 
 <!--
 **RichardTheYellowEgg/RichardTheYellowEgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
